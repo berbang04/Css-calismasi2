@@ -76,7 +76,8 @@ nav .menu{
     width: 100%;
     padding: 0 20px;
     text-align:right;
-    
+    padding-right: 120px !important;
+    padding-bottom: 60px !important;
     text-indent: lem;
 
     
@@ -88,12 +89,12 @@ nav .menu{
 }
 .center .title{
     color: #fff;
-    font-size: 35px;
+    font-size: 45px;
     font-weight: 600;
 }
 .center .subtitle{
     color: #fff;
-    font-size: 32px;
+    font-size: 40px;
     font-weight: 600;
 }
 .center .btns{
